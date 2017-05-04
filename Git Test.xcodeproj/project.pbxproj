@@ -13,6 +13,7 @@
 		D934C43E1EB9D6E800B3CBED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D934C43C1EB9D6E800B3CBED /* Main.storyboard */; };
 		D934C4401EB9D6E800B3CBED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D934C43F1EB9D6E800B3CBED /* Assets.xcassets */; };
 		D934C4431EB9D6E800B3CBED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D934C4411EB9D6E800B3CBED /* LaunchScreen.storyboard */; };
+		D934C44C1EBBAA8400B3CBED /* CTDTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D934C44B1EBBAA8400B3CBED /* CTDTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		D934C43F1EB9D6E800B3CBED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D934C4421EB9D6E800B3CBED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D934C4441EB9D6E800B3CBED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D934C44A1EBBAA8400B3CBED /* CTDTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTDTest.h; sourceTree = "<group>"; };
+		D934C44B1EBBAA8400B3CBED /* CTDTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTDTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				D934C4371EB9D6E800B3CBED /* AppDelegate.m */,
 				D934C4391EB9D6E800B3CBED /* ViewController.h */,
 				D934C43A1EB9D6E800B3CBED /* ViewController.m */,
+				D934C44A1EBBAA8400B3CBED /* CTDTest.h */,
+				D934C44B1EBBAA8400B3CBED /* CTDTest.m */,
 				D934C43C1EB9D6E800B3CBED /* Main.storyboard */,
 				D934C43F1EB9D6E800B3CBED /* Assets.xcassets */,
 				D934C4411EB9D6E800B3CBED /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 				D934C43B1EB9D6E800B3CBED /* ViewController.m in Sources */,
 				D934C4381EB9D6E800B3CBED /* AppDelegate.m in Sources */,
 				D934C4351EB9D6E800B3CBED /* main.m in Sources */,
+				D934C44C1EBBAA8400B3CBED /* CTDTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
